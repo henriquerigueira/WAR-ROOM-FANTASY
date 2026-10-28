@@ -1,0 +1,12 @@
+{
+  "name": "War Room Fantasy",
+  "short_name": "War Room",
+  "description": "Inteligência para o seu fantasy da NFL no Sleeper",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1317",
+  "theme_color": "#0d1317",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0d1317"/>
+  <rect x="96" y="0" width="22" height="512" fill="#1f3a2c"/>
+  <rect x="394" y="0" width="22" height="512" fill="#1f3a2c"/>
+  <path d="M196 96h52l-60 320h-52z" fill="#ffd23f"/>
+  <text x="300" y="300" text-anchor="middle" font-family="Arial Narrow, Arial, sans-serif" font-weight="800" font-size="150" fill="#e6ebee">WR</text>
+</svg>
